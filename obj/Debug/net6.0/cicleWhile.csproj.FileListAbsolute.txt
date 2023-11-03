@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\bin\Debug\net6.0\cicleWhile.exe
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\bin\Debug\net6.0\cicleWhile.deps.json
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\bin\Debug\net6.0\cicleWhile.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\bin\Debug\net6.0\cicleWhile.dll
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\bin\Debug\net6.0\cicleWhile.pdb
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.dll
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\refint\cicleWhile.dll
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.pdb
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\cicleWhile.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Platzi\Backend con C# y .NET\Curso básico de programación con C#\03-Bucles y estructuras de control en C#\cicleWhile\obj\Debug\net6.0\ref\cicleWhile.dll
